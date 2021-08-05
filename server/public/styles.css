@@ -1,0 +1,23 @@
+.color{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    border: 5px solid #000;
+}
+
+.icono{
+    width: 100px;
+    height: 100px;
+}
+
+.pantallaCMYK{
+    width: 50%;
+    height: 80px;
+    background-color: rgb(143, 56, 56);
+    border: 4px solid #000;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #ffffff;
+    font-weight: bolder;
+}
